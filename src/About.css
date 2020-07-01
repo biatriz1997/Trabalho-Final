@@ -1,0 +1,48 @@
+.about{
+
+background-color: #FFF;
+padding-top: 120px;
+padding-bottom:  120px; 
+text-align: center;
+
+
+
+}
+
+
+.about h3 {
+
+font-size: 36px;
+text-transform: uppercase;
+color: black ;
+margin: 0;
+padding: 0;
+
+
+}
+
+
+.about h2 {
+
+font-size: 16px;
+color: black;
+text-transform: uppercase;
+margin-bottom: 48px; 
+padding: 0;
+
+
+}
+
+
+.about p {
+
+font-size: 16px;
+color: black;
+text-transform: uppercase;
+margin-bottom: 48px; 
+padding: 0px 70px  0px 70px;
+line-height: 2;
+
+
+
+}

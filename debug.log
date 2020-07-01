@@ -1,0 +1,2 @@
+[0627/174008.968:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso negado} Um processo pediu acesso a um objeto, mas não lhe foram concedidos permissões de acesso. (0xc0000022)
+[0627/174009.031:ERROR:exception_snapshot_win.cc(99)] thread ID 17420 not found in process
